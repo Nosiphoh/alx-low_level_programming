@@ -17,7 +17,7 @@ struct dog
 };
 
 /**
- * dog_t - typedef fot struct dog
+ * dog_t - typedef for struct dog
  */
 typedef struct dog dog_t;
 
@@ -29,3 +29,4 @@ char *_strcpy(char *dest, char *src);
 int _strlen(char *s);
 
 #endif
+
